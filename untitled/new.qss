@@ -1,0 +1,31 @@
+QPushButton {
+    border: .05em solid #ccc;
+    border-radius: 15px;
+    color: auto;
+    padding: .5em .5em;
+    text-decoration: none;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+
+QPushButton:hover {
+    background: #45a049;
+    color: #fff;
+}
+
+QToolBar {
+    background: #fff;
+}
+
+QToolButton {
+    border: .055em solid #ccc;
+    min-height: 30px;
+    min-width: 50px;
+    background: #fff;
+}
+
+QToolButton:hover {
+    background: #45a049;
+    color: #fff;
+}
